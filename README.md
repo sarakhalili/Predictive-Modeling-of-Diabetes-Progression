@@ -25,7 +25,7 @@ Diabetes is a chronic condition affecting millions worldwide. Predicting its pro
 ## References
 
 * UCI Machine Learning Repository: [Diabetes Dataset](https://archive.ics.uci.edu/ml/datasets/diabetes)
-* Scikit-learn documentation: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)([GitHub][4])
+* Scikit-learn documentation: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
 
 ---
 
